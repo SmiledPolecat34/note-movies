@@ -156,7 +156,7 @@ function App() {
 
         {/* FOOTER */}
         <footer className="footer">
-          <p>CallTheCine • Demi-étoiles</p>
+          <p>CallTheCine • Demi-étoiles • Website by Franklin</p>
         </footer>
       </div>
     </Router>
